@@ -16,6 +16,8 @@ This project demonstrates the use of AWS CloudFormation to automate the deployme
 2. Steps:
    - Create a CloudFormation stack named lab-network.
 
+ $~$
+ 
   ![Alt text of the image](https://github.com/BasilTAlias/AWS-CloudFormation/blob/main/Images/1.png)
 
   VPC details
