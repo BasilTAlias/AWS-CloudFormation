@@ -193,3 +193,15 @@ $~$
 ## Conclusion
 
 This project provides a hands-on demonstration of how AWS CloudFormation can be used to automate infrastructure deployment and management. By following the tasks, users can gain a deeper understanding of IaC principles, modular design, and the use of AWS CloudFormation Designer for template visualization and modification.
+
+---
+
+📝 Medium Article
+
+I also wrote a Medium article that walks through this project step-by-step:
+
+Title: Automating Multi-Layer Infrastructure Deployment Using AWS CloudFormation
+
+Link: https://medium.com/@basiltaliaz/automating-multi-layer-infrastructure-deployment-using-aws-cloudformation-942d2f29e110
+
+---
